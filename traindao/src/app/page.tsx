@@ -6,7 +6,7 @@ import Bars3Icon from '@/Components/BarsIcon'
 import XMarkIcon from '@/Components/xmarkIcon'
 
 const navigation = [
-  { name: 'About', href: '/about' },
+  /* { name: 'About', href: '/about' }, */
   { name: 'Voting', href: 'https://xballot.net/traindao' },
   { name: 'Discord', href: 'https://discord.gg/Tjb4Hsfk8h' },
   { name: 'X', href: 'https://twitter.com/TrainDAO_algo' },
